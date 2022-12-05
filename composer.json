@@ -3,6 +3,7 @@
         "psr-4": {
             "Structural\\":"Structural/",
             "NoFactoryClasses\\":"Creational/Factory/NoFactory/classes/",
+            "SimpleFactory\\":"Creational/Factory/SimpleFactory/classes/",
             "App\\":"App/"
         }
     }

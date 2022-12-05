@@ -7,6 +7,7 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Structural\\' => array($baseDir . '/Structural'),
+    'SimpleFactory\\' => array($baseDir . '/Creational/Factory/SimpleFactory/classes'),
     'NoFactoryClasses\\' => array($baseDir . '/Creational/Factory/NoFactory/classes'),
     'App\\' => array($baseDir . '/App'),
 );
