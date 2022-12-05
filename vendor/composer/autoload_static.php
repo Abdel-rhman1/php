@@ -11,6 +11,10 @@ class ComposerStaticInit26bcfb84eff4b11ffe5416938c5223c6
         array (
             'Structural\\' => 11,
         ),
+        'N' => 
+        array (
+            'NoFactoryClasses\\' => 17,
+        ),
         'A' => 
         array (
             'App\\' => 4,
@@ -21,6 +25,10 @@ class ComposerStaticInit26bcfb84eff4b11ffe5416938c5223c6
         'Structural\\' => 
         array (
             0 => __DIR__ . '/../..' . '/Structural',
+        ),
+        'NoFactoryClasses\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Creational/Factory/NoFactory/classes',
         ),
         'App\\' => 
         array (
