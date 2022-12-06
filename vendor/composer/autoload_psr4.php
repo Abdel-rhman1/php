@@ -10,4 +10,5 @@ return array(
     'SimpleFactory\\' => array($baseDir . '/Creational/Factory/SimpleFactory/classes'),
     'NoFactoryClasses\\' => array($baseDir . '/Creational/Factory/NoFactory/classes'),
     'App\\' => array($baseDir . '/App'),
+    'AbstractFactory\\' => array($baseDir . '/Creational/Factory/AbstractFactory/classes'),
 );

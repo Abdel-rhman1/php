@@ -19,6 +19,7 @@ class ComposerStaticInit26bcfb84eff4b11ffe5416938c5223c6
         'A' => 
         array (
             'App\\' => 4,
+            'AbstractFactory\\' => 16,
         ),
     );
 
@@ -38,6 +39,10 @@ class ComposerStaticInit26bcfb84eff4b11ffe5416938c5223c6
         'App\\' => 
         array (
             0 => __DIR__ . '/../..' . '/App',
+        ),
+        'AbstractFactory\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Creational/Factory/AbstractFactory/classes',
         ),
     );
 
